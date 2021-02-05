@@ -6,7 +6,7 @@ Link:
 API choice: https://api.adviceslip.com/advice
 
 Project description: 
-Fortune cookie is a fun mini game that users can play when they feel bored. 
+Fortune cookie is a fun mini game that users can play when they feel bored. Also users can learn more about fortune cookies' history and myth, how to make fortune cookie for Valentines day or where to buy yummy fortune cookie in San francisco.
 
 An embedded screenshot of the app
 
