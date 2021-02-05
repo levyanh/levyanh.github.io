@@ -1,7 +1,7 @@
-# levyanh.github.io
+# Fortune Cookie web application
 Project name: Fortune Cookies
 
-Link: 
+Link: https://levyanh.github.io/
 
 API choice: https://api.adviceslip.com/advice
 
@@ -9,6 +9,14 @@ Project description:
 Fortune cookie is a fun mini game that users can play when they feel bored. Also users can learn more about fortune cookies' history and myth, how to make fortune cookie for Valentines day or where to buy yummy fortune cookie in San francisco.
 
 An embedded screenshot of the app
+
+![](image/screenshot1.png)
+
+![](image/screanshot2.png)
+
+![](image/screenshot3.png)
+
+![](image/screenshot4.png)
 
 List of technologies used:
 HTML
@@ -25,6 +33,11 @@ User Stories:
 - As a user, I will be able to see a map of Fortune cookie factory.
 
 Wireframes:
+
+![](image/draft1.png)
+
+
+![](image/draft2.png)
 
 Something could be improve in the future:
 - Style CSS for mobile device
