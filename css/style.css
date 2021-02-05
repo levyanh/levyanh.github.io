@@ -37,7 +37,7 @@
   }
   
   #getBtn {
-    background-color: deeppink;
+    background-color: hotpink;
     font-weight: bold;
     font-size:15px;
     width: fit-content;
@@ -46,17 +46,17 @@
   
   #content {
     font-size: 25px;
-    color: deeppink;
+    color: white;
     font-weight: 600;
   }
   
-  h3, p { 
+  h3 { 
     color: rgb(98, 98, 235);
     font-style: italic;
   }
   
   a {
-    color: rgb(103, 145, 209);
+    color: hotpink;
   }
   
   iframe {
