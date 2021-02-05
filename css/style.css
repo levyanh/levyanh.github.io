@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    text-align: center;
+    font-size: 20px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0013/8143/3459/articles/blog_everything-a-person-needs_sq_1024x1024.jpg?v=1535074265");
+    background-size: 100%;
+  }
+  
+  h1{
+    color: deeppink;
+    font-weight: bolder;
+  }
+  
+  img {
+    border-radius: 25px;
+  }
+  
+  input {
+    margin: 30px 0px 30px 10px;
+    color: white;
+  }
+  
+  #txtSearch {
+    box-sizing: 50px;
+  }
+  
+  #txtSearch {
+    color: hotpink;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    width: fit-content;
+    height: 35px;
+  }
+  
+  #getBtn {
+    background-color: deeppink;
+    font-weight: bold;
+    font-size:15px;
+    width: fit-content;
+    height: 32px;
+  }
+  
+  #content {
+    font-size: 25px;
+    color: deeppink;
+    font-weight: 600;
+  }
+  
+  h3, p { 
+    color: rgb(98, 98, 235);
+    font-style: italic;
+  }
+  
+  a {
+    color: rgb(103, 145, 209);
+  }
+  
+  iframe {
+    margin: 30px 30px 30px 30px;
+  }
+  
